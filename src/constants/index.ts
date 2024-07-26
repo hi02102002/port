@@ -1,10 +1,1 @@
-export const GREETINGS = [
-   'Xin chào',
-   'Hello',
-   'Hola',
-   'Bonjour',
-   'Hallo',
-   'Ciao',
-   'Olá',
-   'Привет',
-];
+export const GREETINGS = ['Xin chào', 'Hoang Huy', 'Developer', 'Việt Nam'];

@@ -137,7 +137,7 @@ export const Memories = () => {
 
    return (
       <Section
-         className="select-none relative overflow-hidden bg-cover bg-center bg-no-repeat text-white"
+         className="select-none relative overflow-hidden bg-cover bg-center bg-no-repeat text-white not-rendered-cursor"
          ref={ref}
          style={{
             backgroundImage: 'url(/images/hero.jpg)',
